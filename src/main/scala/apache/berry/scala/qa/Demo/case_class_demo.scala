@@ -1,5 +1,4 @@
-package apache.berry.scala.qa
-
+package apache.berry.scala.qa.Demo
 
 case class Person(name : String, age : Int)
 
